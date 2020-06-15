@@ -1,9 +1,0 @@
-{
-    "cmd": ["/Users/lmmlwen/.pyenv/versions/py2/bin/python2", "-u", "$file"],
-    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
-    "env": {
-        "PYTHONIOENCODING": "utf8",
-        "PYTHONPATH": "/Users/lmmlwen/Sites/wc_open"
-    },
-    "selector": "source.python"
-}
