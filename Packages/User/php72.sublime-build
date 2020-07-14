@@ -1,0 +1,5 @@
+{
+    "cmd": ["php72","$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.php"
+}
